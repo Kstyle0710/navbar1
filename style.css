@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  font-family: 'Single Day';
+  font-family: 'Roboto';
 }
 
 a {
@@ -19,7 +19,7 @@ a {
   justify-content: space-between;
   align-items: center;
   background-color: var(--background-color);
-  padding: 8px 12px;
+  padding: 2px 12px;
 }
 
 .navbar__logo {
@@ -39,7 +39,7 @@ a {
 }
 
 .navbar__menu li {
-  padding: 8px 12px;
+  padding: 8px 30px;
 }
 
 .navbar__menu li:hover {
